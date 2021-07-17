@@ -56,16 +56,21 @@ Install-Package Microsoft.EntityFrameworkCore.Tools -Version 6.0.0-preview.5.213
 * [x] Modelo
 * [x] Repo (y crear las funciones)
   * [x] Leer un usuario.
+  * [x] validar el usuario.
 
 ## Visual
 
-* [ ] Pagina web.
-  * [ ] Muestre la pagina de login
+* [x] Pagina web.
+  * [x] Muestre la pagina de login
 
 ## Controlador (es el que une todo el proyecto)
 
-* [ ] Crear el controlador.
-* [ ] Un metodo para llamar a la pagina web.
+* [x] Crear el controlador.
+* [x] Dos metodo para llamar a la pagina web de login (dos metodos, get y post)
+
+
+
+
 
 
 
